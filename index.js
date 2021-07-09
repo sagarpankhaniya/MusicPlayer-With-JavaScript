@@ -1,22 +1,35 @@
 isPlaying = false;
 songs = [
-  {
+{
     name: "Music 01",
-    title: "Main hu sath tere",
-    artist: "Shivangi Bhayana",
+    title: "Shopping",
+    artist: "Jass Manek",
     image: "Image 01",
   },
   {
     name: "Music 02",
-    title: "O mere sajan",
-    artist: "Stebin Ben",
+    title: "Duniya",
+    artist: "Akhil",
     image: "Image 02",
   },
   {
     name: "Music 03",
+    title: "O Mere Sajan",
+    artist: "Stebin Ben",
+    image: "Image 03",
+    
+  },
+  {
+    name: "Music 04",
     title: "Rabb Wangu",
     artist: "Jass Manek",
-    image: "Image 03",
+    image: "Image 04",
+  },
+  {
+    name: "Music 05",
+    title: "Tum hi Ho",
+    artist: "Arijit Singh",
+    image: "Image 05",
   },
 ];
 const play = document.getElementById("play");
